@@ -26,3 +26,4 @@ The repository contains two distinct phases of development:
 Ensure you have Python installed, then install the required dependencies:
 ```bash
 python -m pip install opencv-python numpy mediapipe pycaw comtypes
+python advanced_sorting.py
